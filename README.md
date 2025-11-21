@@ -1,16 +1,13 @@
-## Hi there 👋
+# Oiee! Eu sou a Luana Vitória 👋
 
-<!--
-**Luanavitoria22/Luanavitoria22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🎓 Eu estudo Análise e Desenvolvimento de Sistemas na **Udf**
 
-Here are some ideas to get you started:
+-📖 Atualmente estudando **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🤝 Estou procurando colaborar em projetos usando **Python**
+
+---
+
+### Você também me encontra em:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-pereira-34239237b/)
